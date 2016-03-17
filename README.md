@@ -25,3 +25,7 @@ For example, given the word "apple", `letterCount("apple")` should return:
 **Super Bonus**: Utilize `filter`, `map` and `reduce` in your solution.
 
 **Beyond**: Try out <a href="http://www.codewars.com/kata/character-frequency-1/javascript" target="_blank">this CodeWars challenge</a>.
+
+<!-- INSTRUCTORS NOTES
+
+{ prerequisites: [ 'forEach', 'object in operator']}
