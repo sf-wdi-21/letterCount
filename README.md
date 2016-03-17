@@ -1,6 +1,5 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60">  Drill
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60">  Functions & iterators practice drill.
 
-Functions & iterators practice.
 
 <a href="https://cloud.githubusercontent.com/assets/1329385/10774272/66b03ef2-7cbd-11e5-8966-a045ef653a22.gif" target="_blank"><img src="https://cloud.githubusercontent.com/assets/1329385/10774272/66b03ef2-7cbd-11e5-8966-a045ef653a22.gif" alt="These may be hard"></a>
 
